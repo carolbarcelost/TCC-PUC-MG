@@ -60,6 +60,6 @@ chisq.test(tab_cont)
 tab_cont2 <- table(df$Ag_armafogo, df$Lesao_Autoprov)
 View(tab_cont2)
 
-##### Teste Qui Quadrado 1 ##### 
+##### Teste Qui Quadrado 2 ##### 
 
 chisq.test(tab_cont2)
